@@ -1,3 +1,5 @@
+package coffeeMachine
+
 fun main() {
     val machineRes = machineResourses()
     var firstStart = true

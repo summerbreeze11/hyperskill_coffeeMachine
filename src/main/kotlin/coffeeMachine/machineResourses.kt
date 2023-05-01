@@ -1,3 +1,5 @@
+package coffeeMachine
+
 data class machineResourses(
     var waterMl: Int = 400,
     var milkMl: Int = 540,
